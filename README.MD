@@ -1,6 +1,6 @@
 # Proyecto desarrollado con Unreal Engine Version 5.7.4 #UnrealEngineHalloween
 
-# mecánica en primera persona con tema terror.
+# mecánica en primera persona con tema terror 100% BP.
 
 ## El proyecto fue subido el 11/10/2026 y tiene 20hs aproximadas de trabajo
 
