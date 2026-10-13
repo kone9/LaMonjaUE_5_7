@@ -5,3 +5,4 @@
 ## El proyecto fue subido el 11/10/2026 y tiene 20hs aproximadas de trabajo
 
 ![1](1.png)
+![DiagramaMonjita](DiagramaMonjita.png)
